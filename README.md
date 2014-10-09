@@ -5,7 +5,9 @@ YingJieSheng_Craw
 
 
 egg：1）lxml-2.2.8-py2.7-win-amd64.egg;2）pyExcelerator
+
 python version:2.7.6
+
 OS：win7
 
 files:1) Shanghai ME2014100952.xls是结果示例;2)YJSBBS_ME.py是源代码
